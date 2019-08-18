@@ -1,0 +1,10 @@
+C:\Users\firmino\source\repos\POS\ExemploAsyncAwait\obj\Debug\ExemploAsyncAwait.csprojAssemblyReference.cache
+C:\Users\firmino\source\repos\POS\ExemploAsyncAwait\obj\Debug\ExemploAsyncAwait.Form1.resources
+C:\Users\firmino\source\repos\POS\ExemploAsyncAwait\obj\Debug\ExemploAsyncAwait.Properties.Resources.resources
+C:\Users\firmino\source\repos\POS\ExemploAsyncAwait\obj\Debug\ExemploAsyncAwait.csproj.GenerateResource.cache
+C:\Users\firmino\source\repos\POS\ExemploAsyncAwait\obj\Debug\ExemploAsyncAwait.csproj.CoreCompileInputs.cache
+C:\Users\firmino\source\repos\POS\ExemploAsyncAwait\bin\Debug\ExemploAsyncAwait.exe.config
+C:\Users\firmino\source\repos\POS\ExemploAsyncAwait\bin\Debug\ExemploAsyncAwait.exe
+C:\Users\firmino\source\repos\POS\ExemploAsyncAwait\bin\Debug\ExemploAsyncAwait.pdb
+C:\Users\firmino\source\repos\POS\ExemploAsyncAwait\obj\Debug\ExemploAsyncAwait.exe
+C:\Users\firmino\source\repos\POS\ExemploAsyncAwait\obj\Debug\ExemploAsyncAwait.pdb
